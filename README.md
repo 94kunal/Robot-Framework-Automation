@@ -2,6 +2,11 @@
 
 This is an example to create keywords from python libraries and executing Test Cases through Robot Framework.
 
+The example uses a Yaml file as Bank Account details and we have test cases to update, withdraw and view account details of different Account Holders.
+The example alos includes a sqlite code which creates a database and We can create different accounts and update, withdraw or view details of different Account Holders.
+
+All the Test cases are executed through robot framework.
+
 **Prerequisites**
 
 Please install the following python libraries to use and run the code:
